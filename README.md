@@ -1,3 +1,6 @@
+<p align="center"><img src="images/SHMKT.png"></p>
+
+
 # ShellMarkets
 
 SHELLMARKETS v0.0.2 - by Croketillo
