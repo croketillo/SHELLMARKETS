@@ -1,4 +1,8 @@
+
 <p align="center"><img src="images/SHMKT.png" width="250"></p>
+
+
+![Pepy Total Downlods](https://img.shields.io/pepy/dt/shellmarkets)
 
 
 # ShellMarkets

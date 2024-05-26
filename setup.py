@@ -38,7 +38,6 @@ setup(
         "Development Status :: 3 - Alpha",
         "Intended Audience :: End Users/Desktop",
         "Intended Audience :: Financial and Insurance Industry",
-        "License :: OSI Approved :: GNU",
         "Natural Language :: English",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.6",

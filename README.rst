@@ -1,3 +1,8 @@
+.. image:: https://img.shields.io/pepy/dt/shellmarkets
+   :alt: Pepy Total Downlods
+
+
+
 ShellMarkets
 ============
 
