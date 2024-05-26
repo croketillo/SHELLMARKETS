@@ -1,4 +1,4 @@
-<p align="center"><img src="images/SHMKT.png"></p>
+<p align="center"><img src="images/SHMKT.png" width="150"></p>
 
 
 # ShellMarkets
