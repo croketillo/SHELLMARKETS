@@ -3,7 +3,7 @@
 
 # ShellMarkets
 
-ShellMarkets is a command-line tool (CLI) for retrieving stock market information. It uses the Yahoo Finance API to fetch data about specific stocks and provides various options to display detailed information about companies.
+ShellMarkets is a command-line tool (CLI) for retrieving stock market information. It uses yfinance module to fetch data about specific stocks and provides various options to display detailed information about companies.
 
 ## Installation
 
