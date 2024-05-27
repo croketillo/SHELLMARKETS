@@ -52,7 +52,7 @@ def main(tickers, extended, info, news, portfolio, create_portfolio, add_ticker,
                 if news:
                     show_news(Ticker(ticker).news)
             except Exception:
-                echo(f'❌ [{ticker}]\t - Ticker no válido.')
+                echo(f'❌ [{ticker}]\t - Invalid ticker.')
                 echo("-" * 48)
     else:
         get_info(tickers)
@@ -102,7 +102,7 @@ def get_info(tickers):
             info_dict = Ticker(ticker).info
             show_price(info_dict)
         except Exception:
-            echo(f'❌ [{ticker}]\t - Ticker no válido.')
+            echo(f'❌ [{ticker}]\t - Invalid ticker.')
             echo("-" * 48)
 
 

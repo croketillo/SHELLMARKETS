@@ -2,7 +2,7 @@ from os import path
 from setuptools import setup, find_packages
 
 
-VERSION= '0.0.2'
+VERSION= '0.0.3'
 AUTHOR='Croketillo'
 AUTHOR_EMAIL='croketillo@gmail.com'
 CURR_PATH = "{}{}".format(path.abspath(path.dirname(__file__)), '/')
