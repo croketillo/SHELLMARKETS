@@ -9,7 +9,7 @@
 
 ShellMarkets is a command-line tool (CLI) for retrieving stock market information. It uses yfinance module to fetch data about specific stocks and provides various options to display detailed information about companies.
 
-<p align="center"><img src="images/Screenshot_1.png" width="250"></p>
+<p align="center"><img src="images/Screenshot_1.png" width="600"></p>
 
 ## Installation
 
@@ -24,7 +24,7 @@ pip install shellmarkets
 ## Usage
 After installation, you can use the shmkt command to interact with the tool. Below are the available options and usage examples.
 
-<p align="center"><img src="images/Screenshot_2.png" width="250"></p>
+<p align="center"><img src="images/Screenshot_2.png" width="600"></p>
 
 ### Show Version
 To display the version of ShellMarkets:
